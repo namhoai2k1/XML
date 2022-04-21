@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qlkh>
+    <Khanghang>
+        <Makh>123</Makh>
+        <Tenkh>Nguyen Hoai Nam</Tenkh>
+        <Diachi>Phu Xuyen</Diachi>
+    </Khanghang>
+    <!-- tao them 2 khach hang -->
+    <Khanghang>
+        <Makh>456</Makh>
+        <Tenkh>Nguyen Hoai Nam</Tenkh>
+        <Diachi>Phu Xuyen</Diachi>
+    </Khanghang>
+    <Khanghang>
+        <Makh>789</Makh>
+        <Tenkh>Nguyen Hoai Nam</Tenkh>
+        <Diachi>Phu Xuyen</Diachi>
+    </Khanghang>
+</qlkh>

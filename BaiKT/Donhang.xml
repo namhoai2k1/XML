@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qldh>
+    <Donghang>
+        <Makh>123</Makh>
+        <Mahang>H01</Mahang>
+        <Tenhang>bep tu duc</Tenhang>
+        <Dongia>3000</Dongia>
+    </Donghang>
+    <!-- tao them 3 Donghang -->
+    <Donghang>
+        <Makh>456</Makh>
+        <Mahang>H02</Mahang>
+        <Tenhang>Huy oc cho</Tenhang>
+        <Dongia>4000</Dongia>
+    </Donghang>
+    <Donghang>
+        <Makh>789</Makh>
+        <Mahang>H03</Mahang>
+        <Tenhang>bot giat</Tenhang>
+        <Dongia>3000</Dongia>
+    </Donghang>
+    <Donghang>
+        <Makh>000</Makh>
+        <Mahang>H04</Mahang>
+        <Tenhang>may giat</Tenhang>
+        <Dongia>3000</Dongia>
+    </Donghang>
+</qldh>

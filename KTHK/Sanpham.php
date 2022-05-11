@@ -36,7 +36,7 @@
             $root = new DomDocument("1.0");
             $root -> load("./Sanpham.xml");
             $xpath = new DOMXPath($root);
-            $kq = $xpath->query("/qlkh/Sanpham[Masp='$this->Masp']");
+            $kq = $xpath->query("/qlsp/Sanpham[Masp='$this->Masp']");
             foreach ($kq as $node) {
                 // tao node moi
                 $infoTag = $root->createElement("Sanpham");
@@ -57,7 +57,7 @@
             $root = new DomDocument("1.0");
             $root -> load("./Sanpham.xml");
             $xpath = new DOMXPath($root);
-            $kq = $xpath->query("/qlkh/Sanpham[Masp='$this->Masp']");
+            $kq = $xpath->query("/qlsp/Sanpham[Masp='$this->Masp']");
             foreach ($kq as $node) {
                 $node->parentNode->removeChild($node);
             }

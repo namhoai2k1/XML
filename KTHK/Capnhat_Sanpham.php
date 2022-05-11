@@ -60,6 +60,7 @@
             $Sanpham = new Sanpham($MaSanpham, $TenSanpham, $Dongia);
             $Sanpham -> Add($xml);
         }
+        // tao updete
         if(isset($_POST['Update'])) {
             $MaSanpham = $_POST['MaSanpham'];
             $TenSanpham = $_POST['TenSanpham'];

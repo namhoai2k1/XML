@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qlsp>
+    <Sanpham>
+        <Masp>123</Masp>
+        <Tensp>keo</Tensp>
+        <Dongia>10000</Dongia>
+    </Sanpham>
+    <!-- tao them 2 khach hang -->
+    <Sanpham>
+        <Masp>456</Masp>
+        <Tensp>banh</Tensp>
+        <Dongia>20000</Dongia>
+    </Sanpham>
+    <Sanpham>
+        <Masp>789</Masp>
+        <Tensp>thuoc la</Tensp>
+        <Dongia>30000</Dongia>
+    </Sanpham>
+<Sanpham><Masp>000</Masp><Tensp>nam</Tensp><Dongia>13000</Dongia></Sanpham><Sanpham><Masp>000</Masp><Tensp>nam</Tensp><Dongia>13000</Dongia></Sanpham><Sanpham><Masp>000</Masp><Tensp>nam</Tensp><Dongia>10000</Dongia></Sanpham></qlsp>
